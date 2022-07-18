@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Storagegram"
-include ':app'
+include(":app")
